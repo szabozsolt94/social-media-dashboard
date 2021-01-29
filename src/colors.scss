@@ -1,0 +1,31 @@
+@import url("https://fonts.googleapis.com/css2?family=Inter:wght@400;700&display=swap");
+
+//Font
+$inter: "Inter", sans-serif;
+
+//Dashboard-top colors
+$facebook: hsl(208, 92%, 53%);
+$twitter: hsl(203, 89%, 53%);
+$instaLinearStart: hsl(37, 97%, 70%);
+$instaLinearEnd: hsl(329, 70%, 58%);
+$youtube: hsl(348, 97%, 39%);
+
+//Button colors
+$darkToggleStart: hsl(210, 78%, 56%);
+$darkToggleEnd: hsl(146, 68%, 55%);
+
+//Dark mode colors
+$darkBackground: hsl(230, 17%, 14%);
+$darkBackgroundPattern: hsl(232, 19%, 15%);
+$darkCardBackground: hsl(228, 28%, 20%);
+$darkBlueText: hsl(228, 34%, 66%);
+$darkWhiteText: hsl(0, 0%, 100%);
+$darkCardHover: #2e3650;
+
+//Light mode colors
+$lightBackground: whitesmoke;
+$lightBackgroundPattern: rgb(234, 234, 236);
+$lightBlackText: #1e202a;
+$lightGreyText: #424242;
+$lightButtonBackground: #aeb3cb;
+$lightCardBackground: #dfe1e9e5;

@@ -24,5 +24,4 @@ yarn-error.log*
 node_modules
 
 /design
-*.scss
 style.scss.map
